@@ -7,7 +7,7 @@ I am a **Software Engineering** student at the [University of Seville](https://w
 ## What do I offer? 🚀
 
 - **Developer:** I am a full-stack developer with experience using the Spring Framework, React, Vite, NodeJS and Django among others. Experience developing RESTful APIs, as well as working with SQL-based databases.
-- **Researcher:** I have worked as a student intern for the [Computer Languages and Systems department at the University of Seville](https://https://departamento.us.es/lsi/), researching different techniques for AI development. 
+- **Researcher:** I have worked as a student intern for the [Computer Languages and Systems department at the University of Seville](https://departamento.us.es/lsi/), researching different techniques for AI development. 
 - **Teacher:** I have worked as a freelance Math, Physics, and Programming private teacher for high school students. Additionally, I have served as a technological camp prefect, teaching children and teenagers the basics of app development. 
 
 ## Language skills🗣️
