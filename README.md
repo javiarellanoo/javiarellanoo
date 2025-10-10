@@ -20,7 +20,7 @@ I am a **Software Engineering** student at the [University of Seville](https://w
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,python,postman" />
-  <img src="https://skillicons.dev/icons?i=html,css,django,c,scikitlearn,vite,d3,git,octave" />
+  <img src="https://skillicons.dev/icons?i=html,css,django,scikitlearn,vite,git,octave" />
 </p>
 
 <hr>
